@@ -1,1 +1,3 @@
 python kitabina basliyoruz.
+
+python kitabında ikinci satır girildi.
